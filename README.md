@@ -23,3 +23,5 @@ Transformando ideias em aplicações funcionais, uma linha de código por vez.
 </div>
 
 <br>
+
+![Snake animation](https://raw.githubusercontent.com/Bieldjs/Bieldjs/output/github-snake-dark.svg)
